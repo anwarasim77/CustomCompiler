@@ -1,0 +1,26 @@
+#x + y + z;
+
+
+#a - b + c + d;
+
+#true || true && false && true;
+
+#3 - -4;
+
+#a < b < 4 >= 10;
+
+print "";
+print "";
+print "Welcome :)";
+print "";
+print "";
+
+x = 1;
+
+y = 2;
+
+z=x-y;
+
+if( ( x < y ) && (true || true && false && true) ) then z= x + y;
+
+print z;
